@@ -23,3 +23,4 @@ Press the "=" button to obtain the result of the calculation.
 To clear the input and start a new calculation, click the "C" button.
 The dark mode can be toggled on and off using the "Toggle Dark Mode" button for personalized visual preferences.
 
+![Screenshot (326)](https://github.com/sudipapiku/Calculator/assets/95086287/16e99427-41d8-4db1-9e4e-421deccdd3cd)
